@@ -9,23 +9,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="81929d8c-2c39-4f2b-a8dd-e26d9ab8a804" name="Changes" comment="Initial Message">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="81929d8c-2c39-4f2b-a8dd-e26d9ab8a804" name="Changes" comment="change jdk">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Webp_Image_Converter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Webp_Image_Converter.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/gui/ImageConverterFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/gui/ImageConverterFrame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Image_Conversion-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Image_Converter-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/Webp_Image_Converter-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ImageFilter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/gui/ImageConverterFrame$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/gui/ImageConverterFrame$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/gui/ImageConverterFrame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/gui/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,7 +130,8 @@
       <workItem from="1660790384199" duration="680000" />
       <workItem from="1660791075276" duration="74000" />
       <workItem from="1660791219120" duration="4000" />
-      <workItem from="1660791236968" duration="331000" />
+      <workItem from="1660791236968" duration="445000" />
+      <workItem from="1660794977327" duration="654000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Message">
       <created>1660366320830</created>
@@ -160,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660789715892</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="change jdk">
+      <created>1660791672743</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1660791672743</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -179,6 +173,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Message" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Message" />
+    <MESSAGE value="change jdk" />
+    <option name="LAST_COMMIT_MESSAGE" value="change jdk" />
   </component>
 </project>

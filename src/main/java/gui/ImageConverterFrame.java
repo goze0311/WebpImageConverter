@@ -122,7 +122,7 @@ public class ImageConverterFrame extends JFrame{
                 WebPWriteParam webPWriteParam = new WebPWriteParam(writer.getLocale());
                 webPWriteParam.setCompressionMode(ImageWriteParam.MODE_EXPLICIT);
                 webPWriteParam.setCompressionType(webPWriteParam.getCompressionTypes()[WebPWriteParam.LOSSY_COMPRESSION]);
-                webPWriteParam.setCompressionQuality(0.5f);
+                webPWriteParam.setCompressionQuality(1f);
 
                 // Configure the output on the ImageWriter
                 writer.setOutput(new FileImageOutputStream(output));
