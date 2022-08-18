@@ -84,7 +84,7 @@ public class ImageConverterFrame extends JFrame{
         if(res == JFileChooser.APPROVE_OPTION){
             File[] files = jFileChooser.getSelectedFiles();
             fileList = files;
-            System.out.println("File List: "+ Arrays.stream(fileList).toList());
+//            System.out.println("File List: "+ Arrays.stream(fileList).toList());
             uploadFile(files);
         }
     }
